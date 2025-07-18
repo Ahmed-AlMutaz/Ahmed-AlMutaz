@@ -3,9 +3,8 @@
 
 <p align="center">
 🎓 Final-year student in Artificial Intelligence and Computer Science  
-📚 Passionate about AI, Machine Learning, LLMs, NLP, and Computer Vision  
-🧠 Team Leader in several university AI projects  
-🎥 Educational content creator helping peers understand complex concepts  
+📚 Passionate about AI, Machine Learning, LLMs, and Computer Vision  
+🎥 Educational content creator helping peers understand complex concepts on Youtube
 </p>
 
 ---
