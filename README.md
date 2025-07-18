@@ -54,6 +54,30 @@ Git, Jupyter, Colab, VS Code, Kaggle
 - Developed educational content using real examples and code  
 
 ---
+## 🌟 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-AlMutaz&theme=dracula" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-AlMutaz&theme=tokyo-night" />
+</p>
+
+---
 
 ### 🌐 Connect With Me
 
@@ -68,6 +92,8 @@ Git, Jupyter, Colab, VS Code, Kaggle
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
+
+> ⚡ "Keep learning. Keep building. Keep growing." 💪
 
 ---
 
