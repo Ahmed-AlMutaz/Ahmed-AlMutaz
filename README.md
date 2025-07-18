@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Mutaz Bellah</h1>
-<h3 align="center">Aspiring AI Engineer | AI & ML Student | Team Leader</h3>
+<h3 align="center">Aspiring AI Engineer | AI & ML Student </h3>
 
 <p align="center">
 🎓 Final-year student in Artificial Intelligence and Computer Science  
