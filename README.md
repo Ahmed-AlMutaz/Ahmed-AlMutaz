@@ -16,7 +16,6 @@ I'm an ambitious AI student with a deep passion for building intelligent systems
 
 I am currently focused on expanding my understanding of:
 - 🔍 *Large Language Models (LLMs)*
-- 🧠 *Natural Language Processing (NLP)*
 - 👁 *Computer Vision (CV)*
 
 My goal is to contribute to innovative, impactful projects while continuing to grow as an AI Engineer.
